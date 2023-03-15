@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+.container{
+	background: #f5f5f5;
+	padding: 15px;
+}
+.jonhDoe{
+	background: white;
+	border: 1px solid lightgray;
+	margin-bottom: 10px;
+}
+.jonhDoe p{
+	padding-bottom:0;
+	padding-left: 10px;
+}
+.jonhDoe #name1{
+	text-align: right;
+	margin-right:10px;
+	padding-top: 0;
+	margin-top:0;
+}
+.janeSmith{
+	background: white;
+	border: 1px solid lightgray;
+	margin-bottom: 15px;
+}
+.janeSmith p{
+	padding-bottom:0;
+	padding-left:10px;
+}
+.janeSmith #name2{
+	text-align: right;
+	margin-right: 10px;
+	padding-top:0;
+	margin-top:0;
+}
